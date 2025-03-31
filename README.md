@@ -15,4 +15,4 @@ Code for Tina's data cleaning and visualizations.
 
 3. Figure_marathon
 - An in-class practice that employed ggplot to create aesthetic figures for data visualization.
-- ![download (1)](https://github.com/user-attachments/assets/0afcd7fb-fbc3-4c80-b6b5-531646a17745)
+![download (1)](https://github.com/user-attachments/assets/0afcd7fb-fbc3-4c80-b6b5-531646a17745)
