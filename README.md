@@ -10,4 +10,5 @@ Code for Tina's data cleaning and visualizations.
 - bar chart for reasons of not receiving a mammogram: ![Ma_N](https://github.com/user-attachments/assets/52736232-ef87-4153-8031-2fa42b437f9b)
 
 2. Course project
-- Using open sources data
+- Using open sources data and tidyverse package to analyze and communicate MMR vaccination rates nad its distribution across the U.S.
+![download](https://github.com/user-attachments/assets/20b5cd32-6f9b-4f7f-a4a7-a56f764bc946)
